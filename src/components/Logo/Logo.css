@@ -1,0 +1,11 @@
+.Logo{
+    width:10vw;
+    height:10vh;
+    margin: 2vw;
+}
+
+.brain{
+    max-width:10vw;
+    max-height:10vh;
+    object-fit: contain;
+}
