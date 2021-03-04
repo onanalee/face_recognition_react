@@ -28,7 +28,7 @@ button{
   z-index:-1;
 }
 
-.resultImage{
+.inputImage{
   width:60vw;
   height:auto;
   object-fit:contain;
